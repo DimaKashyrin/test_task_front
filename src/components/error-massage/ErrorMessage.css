@@ -1,0 +1,17 @@
+.message-box_position {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.message-box__element {
+    height: 100%;
+    width: 200px;
+    color: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+}
+.message-box__element_error {
+    background-color: #ef7da0;
+}
+.message-box__element_success {
+    background: #66bb6a;
+}

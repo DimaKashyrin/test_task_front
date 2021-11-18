@@ -1,0 +1,12 @@
+.user-card-box {
+    display: flex;
+    padding: 10px ;
+    margin-bottom: 5px;
+    background-color: #f4f5f8;
+}
+
+.table-title__element_font {
+    font-size: 12px;
+    font-weight: bold;
+
+}

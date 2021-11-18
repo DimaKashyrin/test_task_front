@@ -1,0 +1,44 @@
+.user-list-btn-box {
+    display: flex;
+    height: 30px;
+    flex-direction: row-reverse;
+    margin: 10px 0;
+}
+.create-btn {
+    height: 100%;
+    background-color: #2e8ff0;
+    color: #ffffff;
+    border-radius: 8px;
+    font-size: 12px;
+    width: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left-side {
+    flex-basis: 70%;
+}
+label {
+    font-size: 12px;
+}
+input {
+    height: 24px;
+    font-size: 14px;
+    padding-left: 5px;
+    background-color: #f3f6f9;
+    border: 1px solid #f3f6f9;
+    border-radius: 4px;
+}
+.table{
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding-bottom: 33px;
+}
+.table-title {
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.table-title__element {
+    flex-basis: 20%;
+}
